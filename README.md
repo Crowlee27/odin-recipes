@@ -2,7 +2,7 @@
 
 This is the first project of mine from The Odin Project. Only HTML at the moment, but will come back later in the course for CSS.
 
-I also would like to add that I do not claim to come up with these recipes. These are recipes that i like to use.
+I also would like to add that I do not claim to come up with these recipes. These are recipes that I like to use.
 
 Links to recipes are as follows.
 Gumbo: https://www.africanbites.com/chicken-shrimp-sausage-gumbo/
